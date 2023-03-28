@@ -1,0 +1,16 @@
+.form-group{
+    margin-left: 500px;
+    margin-top: 20px;
+}
+
+ .btn{
+    margin-left: 550px;
+    margin-top: 20px;
+}
+
+.form{
+    background-color: aquamarine;
+    border: 2px solid black;
+    height: 570px;
+    width: 600px;
+}
